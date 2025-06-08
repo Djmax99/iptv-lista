@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1, 0000 CANAL 26
+http://181.209.114.13:8000/play/a01r/index.m3u8
+#EXTINF:-1, 0001 AMERICA
+http://181.209.114.13:8000/play/a01o/index.m3u8
+#EXTINF:-1, 0002 A24
+http://181.209.114.13:8000/play/a01p/index.m3u8
+#EXTINF:-1, 0003 C5N
+http://181.209.114.13:8000/play/a01q/index.m3u8
+#EXTINF:-1, 0004 Crónica TV
+http://181.209.114.13:8000/play/a01t/index.m3u8
+#EXTINF:-1, 0005 EL NUEVE
+http://181.209.114.13:8000/play/a01u/index.m3u8
+#EXTINF:-1, 0006 El Trece HD Op2
+http://181.209.114.13:8000/play/a01v/index.m3u8
+#EXTINF:-1, 0007 IP Noticias
+http://181.209.114.13:8000/play/a020/index.m3u8
+#EXTINF:-1, 0008 TN
+http://181.209.114.13:8000/play/a058/index.m3u8
+#EXTINF:-1, 0009 TV Pública
+http://181.209.114.13:8000/play/a056/index.m3u8
+#EXTINF:-1, 0010 La Nación Más
+http://181.209.114.13:8000/play/a01s/index.m3u8
+#EXTINF:-1, 0011 Telefe
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
+#EXTINF:-1, 0012 Magazine
+http://181.209.114.13:8000/play/a02h/index.m3u8
